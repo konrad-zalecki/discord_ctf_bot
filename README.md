@@ -1,2 +1,2 @@
 # discord_ctf_bot
-Discord bot for organising ctf or similar events on discord servers.
+Discord bot for organising quiz events (for example ctf) on discord servers.
